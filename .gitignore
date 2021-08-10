@@ -1,0 +1,8 @@
+# ide
+**/.idea
+
+# filesystem
+.DS_Store
+
+# cmake
+cmake-build-debug

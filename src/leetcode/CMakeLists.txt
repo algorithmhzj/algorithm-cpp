@@ -1,0 +1,1 @@
+add_executable(l0684 l0684.cpp)

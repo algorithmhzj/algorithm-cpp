@@ -1,0 +1,2 @@
+add_executable(leetcodes_tests l0684_test.cpp)
+target_link_libraries(leetcodes_tests gtest_main)
