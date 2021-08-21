@@ -1,1 +1,3 @@
-add_executable(l0684 l0684.cpp)
+add_library( leetcode
+        l0684.cpp
+        l0323.cpp)
